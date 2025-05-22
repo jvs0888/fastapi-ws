@@ -1,0 +1,9 @@
+.vscode/
+.venv/
+.idea/
+*__pycache__/
+
+*/.env
+
+logs/*.log
+tests/ws_client.py
